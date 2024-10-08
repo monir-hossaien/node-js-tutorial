@@ -1,0 +1,9 @@
+
+{
+  "name" : "monir",
+  "age": 30,
+  "address": {
+    "city": "Gazipur",
+    "dis": "Dhaka"
+  }
+}
